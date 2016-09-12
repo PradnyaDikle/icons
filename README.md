@@ -1,1 +1,2 @@
-# icons
+# twcios-frameworks-wxicons
+wxicons i
